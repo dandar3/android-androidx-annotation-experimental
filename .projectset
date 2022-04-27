@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-androidx-annotation-experimental/tags/1.0.0,androidx-annotation-experimental,a0438b5f9a86001b115cd646a6ac5095;https://github.com/dandar3/android-androidx-annotation-experimental;https://github.com/dandar3/android-androidx-annotation-experimental;branches;tags;trunk;true;19699b6e-b5e8-a51c-3020-ce57b7db7bff;https://github.com/dandar3/android-androidx-annotation-experimental;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-annotation-experimental/tags/1.1.0,androidx-annotation-experimental,a0438b5f9a86001b115cd646a6ac5095;https://github.com/dandar3/android-androidx-annotation-experimental;https://github.com/dandar3/android-androidx-annotation-experimental;branches;tags;trunk;true;19699b6e-b5e8-a51c-3020-ce57b7db7bff;https://github.com/dandar3/android-androidx-annotation-experimental;;false;;;0"/>
 </provider>
 </psf>
